@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="./Matebook-logo.png" width="230px"/>
+    <img src="./Facebook-logo.png" width="230px"/>
 </p>
 
-<p align="center"> This is a web application of Matebook UI created with React technologies and his ecosystem. </p>
+<p align="center"> This is a web application of Facebook UI created with React technologies and his ecosystem. </p>
 
 <p align="center"> 
     <a href="https://facebook-clone-dev.vercel.app" >DEMO</a> - 
