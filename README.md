@@ -43,5 +43,4 @@
 - [ ] [Settings](https://facebook-clone-dev.vercel.app/settings)
 - [ ] [Policies](https://facebook-clone-dev.vercel.app/policies)
 
-> This a big facebook clone 💙 if you want to add a new feature, app or anything to improve them, do it 😃
 
