@@ -9,10 +9,6 @@
     <img src="./stack.png" width="580px"/>
 </p>
 
-## Preview
-
-![preview image](./preview.png)
-
 ## Screens
 
 - [x] [Groups](https://facebook-clone-dev.vercel.app/groups)
