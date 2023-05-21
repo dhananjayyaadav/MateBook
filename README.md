@@ -5,11 +5,6 @@
 
 <p align="center"> This is a web application of Facebook UI created with React technologies and his ecosystem. </p>
 
-<p align="center"> 
-    <a href="https://facebook-clone-dev.vercel.app" >DEMO</a> - 
-    <a href="https://facebook-clone-design-system.netlify.app/" >DESIGN SYSTEM</a> 
-</p>
-
 <p align="center">
     <img src="./stack.png" width="580px"/>
 </p>
@@ -20,7 +15,6 @@
 
 ## Screens
 
-- [x] [Index](https://facebook-clone-dev.vercel.app)
 - [x] [Groups](https://facebook-clone-dev.vercel.app/groups)
 - [x] [Marketplace](https://facebook-clone-dev.vercel.app/marketplace)
 - [x] [Gaming](https://facebook-clone-dev.vercel.app/gaming)
